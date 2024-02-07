@@ -25,7 +25,7 @@ function printEvenNumbersWithFor() {
 }
 
 // Task 4
-function getDayName(dayNumber) {
+function getDayName() {
   let day;
   switch (dayNumber) {
     case 1:
